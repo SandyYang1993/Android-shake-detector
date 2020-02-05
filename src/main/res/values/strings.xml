@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ShakeDetectorPlus</string>
+    <string name="statement_1">The 3D acceleration values are</string>
+    <string name="statement_2">The Shake Detector detects</string>
+    <string name="statement_3">The Barometer value is</string>
+    <string name="a_x">0</string>
+    <string name="a_y">0</string>
+    <string name="a_z">0</string>
+    <string name="b">0</string>
+    <string name="threshold_default">12</string>
+    <string name="shake_result">Please press start to detect shake</string>
+    <string name="start_button">START</string>
+    <string name="stop_button">STOP</string>
+    <string name="start_button_b">START</string>
+    <string name="stop_button_b">STOP</string>
+</resources>
